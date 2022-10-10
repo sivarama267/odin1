@@ -1,3 +1,12 @@
 # odin1
 M SIVA
 M SAI
+M RAM
+M FFF
+M JSKD
+MDS
+SDS
+SDS
+DS
+D
+EW
